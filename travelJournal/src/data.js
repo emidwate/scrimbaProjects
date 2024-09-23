@@ -34,5 +34,3 @@ const data  = [
   }
 ]
 export default data
-
-console.log(JSON.stringify(data))
